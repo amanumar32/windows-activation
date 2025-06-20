@@ -1,7 +1,7 @@
-html{
+  html{
     background-color: azure;
     font-size: 20px;
-    font-family: Sans-Serif;
+    font-family: cursive;
   }
   img{
     height: 100%;
@@ -75,4 +75,11 @@ a{
 }
 .aend{
   color: black;
+}
+summary{
+  cursor: pointer;
+}
+#backword{
+  font-weight: bold;
+  font-size: 16px;
 }
